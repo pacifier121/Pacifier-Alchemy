@@ -126,3 +126,11 @@ h6{
   background-color: white;
   color: #64958f;
 }
+
+.link-pink{
+  color: #ee8888;
+}
+
+.link-pink:hover{
+  color:#444f5a;
+}
